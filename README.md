@@ -1,7 +1,7 @@
 # SP500Prediction
 ## This program is meant to predict whether or not the S&P 500 will increase or decrease.
 <ul>
-  <li>We used multiple predictors such as: </li>
+  <li>I used multiple predictors such as: </li>
   <ul>
     <li>Trends on close data</li>
     <li>Open</li>
